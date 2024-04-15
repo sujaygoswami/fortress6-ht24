@@ -7,7 +7,13 @@
 
 
 Last login: Thu Mar  7 09:47:15 on console
-sujaygoswami@Sujays-Mac-mini ~ % ssh p656092.mittwaldserver.info
+sujaygoswami@Sujays-Mac-mini ~ % ssh p656092.mittwaldserver.info/ssh p656092@p656092.mittwaldserver.info
 Last login: Thu Mar  7 05:56:09 2024 from 117.227.49.89
 p656092:~ > cd html/programm.hessentag2024.de/
 p656092:/home/www/p656092/html/programm.hessentag2024.de > 
+
+
+htaccess
+-----
+ht24
+ht24pw

@@ -442,7 +442,6 @@
   -ms-hyphens: auto;
   hyphens: auto;
   -moz-hyphens: auto;
-  word-wrap: break-word;
 }
 
 .ht23.firefox .ui-widget.ui-widget-content {
@@ -3068,25 +3067,8 @@
     vertical-align: top;
   }
 
-  .ht23 .print-list-module table tbody{
-    display: block;
-  }
-
-  .ht23 .print-list-module table tbody tr{
-    display: block;
-  }
-
-  .ht23 .print-list-module table tbody td:first-child, .ht23 .print-list-module table tbody td {
-    width: 100%;
-  }
-  .ht23 .print-list-module table tbody td{
-    padding-left: 0px !important;
-    padding-right: 0px !important;
-    display: block;
-  }
-
-  .ht23 .print-list-module .event-information svg, .ht23 .print-list-module .event-information span{
-    line-height: 24px;
+  .ht23 .print-list-module table tbody td:first-child {
+    width: 150px;
   }
 
   .ht23 footer.footer .footer-logo-holder img {
